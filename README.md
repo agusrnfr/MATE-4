@@ -6,4 +6,4 @@
 
 ## Prácticas
 ### Cualquier error es culpa de Antonio, no mia.
-* [**Práctica 1**](https://github.com/agusrnfr/MATE-4/tree/main/Practicas/Practica1)
+* [**Práctica 1**](https://github.com/agusrnfr/MATE-4/blob/main/Practicas/Practica1/TP1.pdf)
