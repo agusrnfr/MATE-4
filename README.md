@@ -13,3 +13,4 @@
 * [**Práctica 5**](https://github.com/agusrnfr/MATE-4/blob/main/Practicas/Practica5/TP5.pdf)
 * [**Práctica 5 II**](https://github.com/agusrnfr/MATE-4/tree/main/Practicas/Practica5-II)
 * [**Práctica 5 III**](https://github.com/agusrnfr/MATE-4/tree/main/Practicas/Practica5-III)
+* [**Práctica 6**](https://github.com/agusrnfr/MATE-4/blob/main/Practicas/Practica6/TP6.pdf)
